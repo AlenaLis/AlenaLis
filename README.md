@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 🌱
+My name is Alena https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif 
+I am a web-developer
+## Languages and technologies:
+- React 
+- React Native
+- Node JS
+- MongoDB
+- WebSocket
+- Typescript
 
 <!--
 **AlenaLis/AlenaLis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
