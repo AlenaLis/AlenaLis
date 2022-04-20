@@ -1,5 +1,5 @@
 ### Hi there 🌱
-My name is Alena https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif 
+My name is Alena
 I am a web-developer
 ## Languages and technologies:
 - React 
