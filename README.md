@@ -1,6 +1,5 @@
 ### Hi there 🌱
-My name is Alena
-I am a web-developer
+My name is Alena and I am a web-developer
 ## Languages and technologies:
 - React 
 - React Native
