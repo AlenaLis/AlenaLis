@@ -1,11 +1,17 @@
 ### Hi there 🌱
 My name is Alena and I am a web-developer
 ## Languages and technologies:
-- React 
+- React
+- Next.js
+- Formik
+- Material UI
+- Bootstrap
+- Redux
+- Mobx
 - React Native
 - Node JS
 - MongoDB
-- WebSocket
+- Web Socket
 - Typescript
 
 <!--
